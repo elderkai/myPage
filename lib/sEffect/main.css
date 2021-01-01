@@ -56,7 +56,9 @@ z-index: -1; */
     background-position: center; */
 }
 .bottomBa:hover{ color: #fff;;
-
+}
+a:hover{
+  color:#fff;
 }
 .bottomBa img{
   width: 20px;
